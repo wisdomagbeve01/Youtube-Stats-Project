@@ -73,3 +73,7 @@ During the EDA phase, several key questions were addressed to explore and unders
 
 ## Key Metrics Measured
 `Subscriber Count`, `Video Views`, `Upload Frequency`, `Country of Origin`, `Channel Type`, `Estimated Earnings`, `Channel and Country Rank`
+
+## Visualizations
+
+1. 
