@@ -49,4 +49,8 @@ The data cleaning and preparation process involved the following steps:
 4. **Missing Values Treatment:**
 - Replaced missing values in the `Abbreviation` and `channel_type` columns with "Not available" to ensure consistent data.
 - For `channel_type_rank` and `country_rank`, missing values were replaced with the mode (the most frequent value), as these are categorical rankings.
+5. **Final Missing Values Check:**
+- Rechecked for any remaining missing values and chose to drop rows with missing values in `created_month` and `created_date` since the number of missing entries was minimal and wouldn't impact the analysis.
+6. **Data Type Adjustments:**
+- Converted date columns from float values to a proper date-type format to enable better handling of time-based analysis.
 
