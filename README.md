@@ -61,3 +61,12 @@ The data cleaning and preparation process involved the following steps:
 6. **Data Type Adjustments:**
 - Converted date columns from float values to a proper date-type format to enable better handling of time-based analysis.
 
+## Exploratory Data Analysis
+
+During the EDA phase, several key questions were addressed to explore and understand the dataset:
+
+1. What YouTube category has the most activity?
+2. What countries have the highest amount of YouTube activity?
+3. What continents have the highest amount of YouTube activity?
+4. What is the relationship between uploads and subscribers?
+5. What is the relationship between subrscribers and earnings at different continents?
