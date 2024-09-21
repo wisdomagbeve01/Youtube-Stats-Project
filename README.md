@@ -165,3 +165,6 @@ This visualization allows for a comparative analysis of how the relationship bet
 3. **Leverage Insights for Growth:** Aspiring YouTubers should analyze successful channels in their niche to understand best practices regarding content strategy, engagement, and monetization. Learning from established creators can help new channels effectively grow their subscriber base and earnings.
 4. **Focus on Regional Growth:** For creators in regions with lower representation, such as Africa, targeted initiatives and collaborations can help elevate content visibility and attract a larger audience. Supporting local content creators and fostering community engagement can enhance the overall YouTube landscape in those areas.
 
+## References
+
+- The Global YouTube Statistics 2023 Dataset can be found [here](https://www.kaggle.com/datasets/nelgiriyewithana/global-youtube-statistics-2023)
