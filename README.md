@@ -140,3 +140,6 @@ This visualization allows for an easy identification of relationships between di
 
 
 This visualization allows for a comparative analysis of how the relationship between subscribers and earnings varies across regions. By examining the scatter plots for each continent, one can identify unique trends and patterns, such as whether certain continents show stronger correlations between subscriber counts and earnings than others. This analysis provides valuable insights into regional differences in YouTube monetization and audience dynamics, helping to understand how location may influence a creator's financial success on the platform.
+
+## Results
+
