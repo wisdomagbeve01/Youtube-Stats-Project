@@ -39,7 +39,7 @@ The Global YouTube Statistics dataset contains detailed information about top Yo
 1. **Python:** The primary programming language used for data manipulation and analysis.
 2. **Pandas:** A library for data cleaning, manipulation, and exploration, facilitating tasks like handling missing values, generating summaries, and modifying data types.
 3. **NumPy:** A library for efficient numerical computing, used to support array-based operations.
-4. **Seaborn:** Libraries used to create visualizations such as plots and graphs to identify trends and patterns in the data.
+4. **Seaborn/Matplotlib:** Libraries used to create visualizations such as plots and graphs to identify trends and patterns in the data.
 5. **MySQL:** The SQL database used for querying and generating descriptive statistics directly from the dataset.
 6. **Google Colab:** The cloud-based platform where the analysis was performed, enabling interactive exploration and visualization.
 
