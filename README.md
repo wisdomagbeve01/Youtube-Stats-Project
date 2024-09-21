@@ -95,7 +95,7 @@ This chart aggregates the number of uploads from creators based on their contine
 By grouping countries into continents, this visualization offers a macro-level perspective, making it easy to compare YouTube activity between continents and understand global content trends. It highlights the regions with the most active YouTube communities and provides insights into where the platform is growing the fastest.
 
 4. **Distribution Plot of YouTube Subscribers**
-<img width="698" alt="4" src="https://github.com/user-attachments/assets/27d1955b-41e7-4b7c-80e0-b7eed9e360c4">
+<img width="847" alt="4" src="https://github.com/user-attachments/assets/6c44baa8-79f5-4ddf-83c5-50e8036b5dc1">
 
 
 This plot provides insights into how subscriber counts are distributed across creators, highlighting whether most creators have small, moderate, or large subscriber bases. It helps identify trends such as whether there’s a concentration of creators with a certain number of subscribers or if the distribution is more spread out, offering a clearer understanding of audience sizes across YouTube channels.
@@ -107,7 +107,8 @@ This plot provides insights into how subscriber counts are distributed across cr
 This plot helps visualize the distribution of content creation activity, revealing whether most creators upload a small number of videos or if there’s a significant group with a large volume of uploads. It provides insights into how consistently creators are uploading content and whether there’s a typical range for the number of uploads on YouTube.
 
 6. **Distribution Plot of Yearly Earnings**
-<img width="998" alt="6" src="https://github.com/user-attachments/assets/40922115-4fff-489e-9a7c-e0e9f5cae920">
+<img width="1023" alt="6" src="https://github.com/user-attachments/assets/e18a565d-e00f-4910-a195-c54ddd6264c2">
+
 
 This plot provides insights into the financial landscape of YouTube creators, highlighting whether most creators earn modest incomes or if there are significant outliers with exceptionally high earnings. By visualizing the distribution of yearly earnings, this chart helps to understand the economic diversity within the platform and reveals trends in creator monetization.
 
