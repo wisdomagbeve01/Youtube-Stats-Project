@@ -46,3 +46,7 @@ The data cleaning and preparation process involved the following steps:
   - Generated a statistical summary using the `.describe()` command in SQL to understand key metrics such as counts, means, and standard deviations for numerical columns
 3. **Handling Unnecessary Columns:**
 - Identified and dropped six columns that were not relevant to the analysis: `Gross tertiary education enrollment (%)`, `Population`, `Unemployment rate`, `Urban_population`, `Latitude`, `Longitude`, and `subscribers_for_last_30_days`.
+4. **Missing Values Treatment:**
+- Replaced missing values in the `Abbreviation` and `channel_type` columns with "Not available" to ensure consistent data.
+- For `channel_type_rank` and `country_rank`, missing values were replaced with the mode (the most frequent value), as these are categorical rankings.
+
