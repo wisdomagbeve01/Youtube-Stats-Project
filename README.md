@@ -134,3 +134,9 @@ This scatter plot allows for a clear visual analysis of how subscriber numbers m
 
 
 This visualization allows for an easy identification of relationships between different variables. The lighter colors signify stronger positive correlations, suggesting that as one metric increases, the other tends to increase as well. Conversely, darker colors highlight negative correlations, indicating that as one metric rises, the other may decline. By using the heatmap, one can quickly assess how metrics like uploads relate to earnings or subscribers, helping to uncover insights about the factors that influence success on the platform. This analysis is crucial for understanding the interplay between content creation activities and financial outcomes on YouTube.
+
+11. **Multivariate Analysis of Subscribers and Earnings by Continent**
+![11](https://github.com/user-attachments/assets/304f0ed6-d7bf-4cfa-80cc-f372fde2c3e2)
+
+
+This visualization allows for a comparative analysis of how the relationship between subscribers and earnings varies across regions. By examining the scatter plots for each continent, one can identify unique trends and patterns, such as whether certain continents show stronger correlations between subscriber counts and earnings than others. This analysis provides valuable insights into regional differences in YouTube monetization and audience dynamics, helping to understand how location may influence a creator's financial success on the platform.
