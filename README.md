@@ -88,4 +88,10 @@ This visualization helps in understanding the distribution of activity across va
 This chart presents the total number of uploads from creators based in different countries, highlighting which regions are most active on the platform. By comparing the volume of uploads from various countries, this bar chart provides insights into geographic trends in YouTube content creation.
 This visualization helps identify the countries that dominate the platform in terms of creator activity and can offer a deeper understanding of regional trends and preferences in online content.
 
+3. **Bar Chart of Continents by YouTube Activity**
+<img width="849" alt="3" src="https://github.com/user-attachments/assets/0c1321d3-c159-4e37-9f00-267200ef5aa9">
+
+This chart aggregates the number of uploads from creators based on their continent of origin, providing a broad overview of which regions of the world have the highest content creation levels on YouTube.
+By grouping countries into continents, this visualization offers a macro-level perspective, making it easy to compare YouTube activity between continents and understand global content trends. It highlights the regions with the most active YouTube communities and provides insights into where the platform is growing the fastest.
+
 
