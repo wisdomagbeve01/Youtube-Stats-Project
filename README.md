@@ -123,4 +123,8 @@ This scatter plot allows for a visual examination of the correlation between the
 
 This scatter plot provides a visual representation of how content creation may impact financial success on the platform. By plotting each creator as a point, it allows for the identification of any correlations or trends, such as whether creators with more uploads generally earn higher incomes. This analysis can shed light on the potential financial benefits of consistent content production, helping to understand the link between upload frequency and revenue generation.
 
+9. **Scatter Plot of the Relationship Between Subscribers and Yearly Earnings**
+<img width="803" alt="9" src="https://github.com/user-attachments/assets/8898176f-f0fb-4782-84e9-872c7f7e9f1a">
 
+
+This scatter plot allows for a clear visual analysis of how subscriber numbers may correlate with financial success on the platform. By plotting each creator as a point, it helps to identify trends, such as whether channels with larger subscriber bases tend to have higher earnings. This analysis provides valuable insights into the economic impact of audience size, helping to understand how subscriber growth can influence revenue potential for creators on YouTube.
