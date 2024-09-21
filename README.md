@@ -43,4 +43,6 @@ The data cleaning and preparation process involved the following steps:
 1. **Initial Exploration:**
  - Checked the shape of the dataset and used the `.info()` function to get an overview of the dataset’s structure, including data types and non-null values.
 2. **Summary Statistics:**
-  - 
+  - Generated a statistical summary using the `.describe()` command in SQL to understand key metrics such as counts, means, and standard deviations for numerical columns
+3. **Handling Unnecessary Columns:**
+   - Identified and dropped six columns that were not relevant to the analysis: `Gross tertiary education enrollment (%)`, `Population`, `Unemployment rate`, `Urban_population`, `Latitude`, `Longitude`, and `subscribers_for_last_30_days`.
