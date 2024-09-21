@@ -70,3 +70,6 @@ During the EDA phase, several key questions were addressed to explore and unders
 3. What continents have the highest amount of YouTube activity?
 4. What is the relationship between uploads and subscribers?
 5. What is the relationship between subrscribers and earnings at different continents?
+
+## Key Metrics Measured
+'Subscriber Count`, `Video Views`, `Upload Frequency`, `Country of Origin`, `Channel Type`, `Estimated Earnings`, `Channel and Country Rank`
