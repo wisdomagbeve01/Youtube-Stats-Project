@@ -128,3 +128,5 @@ This scatter plot provides a visual representation of how content creation may i
 
 
 This scatter plot allows for a clear visual analysis of how subscriber numbers may correlate with financial success on the platform. By plotting each creator as a point, it helps to identify trends, such as whether channels with larger subscriber bases tend to have higher earnings. This analysis provides valuable insights into the economic impact of audience size, helping to understand how subscriber growth can influence revenue potential for creators on YouTube.
+
+10. 
