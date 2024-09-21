@@ -82,4 +82,10 @@ During the EDA phase, several key questions were addressed to explore and unders
 This chart highlights which content genres (e.g., entertainment, gaming, education) have the most uploads, providing a clear picture of where creators are most active on the platform. By plotting the number of videos uploaded within each category, the bar chart allows for an easy comparison of the popularity and engagement of different types of content.
 This visualization helps in understanding the distribution of activity across various content genres and offers insights into which areas of YouTube are most saturated or growing rapidly.
 
+2. **Bar Chart of Countries by YouTube Activity**
+<img width="833" alt="2" src="https://github.com/user-attachments/assets/34da21d2-d3b2-47fe-b76c-82ec544c1620">
+
+This chart presents the total number of uploads from creators based in different countries, highlighting which regions are most active on the platform. By comparing the volume of uploads from various countries, this bar chart provides insights into geographic trends in YouTube content creation.
+This visualization helps identify the countries that dominate the platform in terms of creator activity and can offer a deeper understanding of regional trends and preferences in online content.
+
 
