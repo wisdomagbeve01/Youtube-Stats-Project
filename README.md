@@ -94,4 +94,8 @@ This visualization helps identify the countries that dominate the platform in te
 This chart aggregates the number of uploads from creators based on their continent of origin, providing a broad overview of which regions of the world have the highest content creation levels on YouTube.
 By grouping countries into continents, this visualization offers a macro-level perspective, making it easy to compare YouTube activity between continents and understand global content trends. It highlights the regions with the most active YouTube communities and provides insights into where the platform is growing the fastest.
 
+4. **Distribution Plot of YouTube Subscribers**
+ <img width="686" alt="4" src="https://github.com/user-attachments/assets/58e2a90a-da42-42a0-a0c3-7489a92b4852">
 
+
+This plot provides insights into how subscriber counts are distributed across creators, highlighting whether most creators have small, moderate, or large subscriber bases. It helps identify trends such as whether there’s a concentration of creators with a certain number of subscribers or if the distribution is more spread out, offering a clearer understanding of audience sizes across YouTube channels.
