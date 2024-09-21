@@ -150,6 +150,14 @@ This visualization allows for a comparative analysis of how the relationship bet
 
 ## Limitations
 
-1. **Data Completeness:** The dataset may have missing or incomplete information, which could affect the accuracy of the analysis and insights drawn from it. Certain metrics might not be fully represented, potentially skewing results.
-2. **Temporal Context:** The analysis reflects a specific point in time, and trends in YouTube activity can change rapidly. As content creation and audience behavior evolve, the findings may not hold true in the future.
-3. **Generalizability:** While the dataset provides valuable insights into YouTube creators, the results may not be applicable to all creators globally. Different regions may have unique dynamics that are not captured in this analysis.
+1. **Data Completeness:** The dataset may not include all YouTube creators, especially smaller channels or those in less popular categories, potentially leading to skewed results in certain areas.
+2. **Estimations of Earnings:** The estimated earnings figures are approximations and may not accurately reflect actual revenue, as they often depend on various factors like monetization methods, viewer demographics, and market conditions.
+3. **Temporal Scope:** The data may represent a specific time frame, which could limit the ability to capture trends and changes in the YouTube landscape over time.
+4. **Geographic Representation:** While the analysis highlights global trends, regional differences in content creation and monetization strategies may not be fully captured, particularly in less represented countries or continents.
+5. **Subjectivity in Categories:** The categorization of channels may vary, and some creators might fit into multiple genres, complicating the analysis of category-specific trends.
+6. **Correlation vs. Causation:** While the analysis identifies correlations between variables (like uploads and subscribers), it does not imply causation. Other factors may influence these relationships, which are not accounted for in the dataset.
+7. **Data Quality:** The accuracy of the data may be influenced by reporting discrepancies or changes in YouTube's API, which could affect the reliability of certain metrics.
+
+## Recommendations
+
+
