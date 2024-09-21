@@ -24,7 +24,7 @@ This project analyzes the Global YouTube Statistics dataset, sourced from Kaggle
 
 ## Data Description
 
-The Global YouTube Statistics dataset contains detailed information about top YouTube creators. The key fields in the dataset include:
+The Global YouTube Statistics dataset contains detailed information about top YouTube creators. The dataset used is the [Global YouTube Statistics 2023](https://www.kaggle.com/datasets/nelgiriyewithana/global-youtube-statistics-2023). The key fields in the dataset include:
 
 Creator Name: The name of the YouTube channel or creator.
 Subscriber Count: The number of subscribers each creator has, indicating their audience size.
