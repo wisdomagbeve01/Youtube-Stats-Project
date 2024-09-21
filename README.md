@@ -148,3 +148,8 @@ This visualization allows for a comparative analysis of how the relationship bet
 4. **Earnings vs. Subscribers:** The analysis also revealed reasonable correlations between earnings and subscriber counts, suggesting that channels with larger audiences generally tend to generate higher revenues. This trend underscores the importance of audience size in determining a creator's financial success on the platform.
 5. **Uploads vs. Subscribers:** he analysis indicated a positive correlation between the number of uploads and subscriber counts. This suggests that creators who consistently upload content tend to attract more subscribers, reinforcing the idea that regular content production can significantly enhance audience growth. This relationship highlights the importance of upload frequency in building a successful YouTube channel.
 
+## Limitations
+
+1. **Data Completeness:** The dataset may have missing or incomplete information, which could affect the accuracy of the analysis and insights drawn from it. Certain metrics might not be fully represented, potentially skewing results.
+2. **Temporal Context:** The analysis reflects a specific point in time, and trends in YouTube activity can change rapidly. As content creation and audience behavior evolve, the findings may not hold true in the future.
+3. **Generalizability:** While the dataset provides valuable insights into YouTube creators, the results may not be applicable to all creators globally. Different regions may have unique dynamics that are not captured in this analysis.
