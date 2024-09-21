@@ -99,3 +99,9 @@ By grouping countries into continents, this visualization offers a macro-level p
 
 
 This plot provides insights into how subscriber counts are distributed across creators, highlighting whether most creators have small, moderate, or large subscriber bases. It helps identify trends such as whether there’s a concentration of creators with a certain number of subscribers or if the distribution is more spread out, offering a clearer understanding of audience sizes across YouTube channels.
+
+5. **Distribution Plot of YouTube Uploads**
+<img width="1003" alt="5" src="https://github.com/user-attachments/assets/53023bff-2f59-48dd-9bd9-b5361f787a20">
+
+
+This plot helps visualize the distribution of content creation activity, revealing whether most creators upload a small number of videos or if there’s a significant group with a large volume of uploads. It provides insights into how consistently creators are uploading content and whether there’s a typical range for the number of uploads on YouTube.
