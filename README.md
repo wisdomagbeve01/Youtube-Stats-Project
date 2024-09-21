@@ -105,3 +105,9 @@ This plot provides insights into how subscriber counts are distributed across cr
 
 
 This plot helps visualize the distribution of content creation activity, revealing whether most creators upload a small number of videos or if there’s a significant group with a large volume of uploads. It provides insights into how consistently creators are uploading content and whether there’s a typical range for the number of uploads on YouTube.
+
+6. **Distribution Plot of Yearly Earnings**
+<img width="998" alt="6" src="https://github.com/user-attachments/assets/40922115-4fff-489e-9a7c-e0e9f5cae920">
+
+This plot provides insights into the financial landscape of YouTube creators, highlighting whether most creators earn modest incomes or if there are significant outliers with exceptionally high earnings. By visualizing the distribution of yearly earnings, this chart helps to understand the economic diversity within the platform and reveals trends in creator monetization.
+
