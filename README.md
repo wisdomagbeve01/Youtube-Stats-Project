@@ -76,4 +76,10 @@ During the EDA phase, several key questions were addressed to explore and unders
 
 ## Visualizations
 
-1. 
+1. **Bar Chart of YouTube Categories by Activity**
+<img width="848" alt="Screenshot 2024-09-20 at 11 02 50 PM" src="https://github.com/user-attachments/assets/e6d773d5-2e06-4c83-a9ff-6b9f1fea4267">
+
+This chart highlights which content genres (e.g., entertainment, gaming, education) have the most uploads, providing a clear picture of where creators are most active on the platform. By plotting the number of videos uploaded within each category, the bar chart allows for an easy comparison of the popularity and engagement of different types of content.
+This visualization helps in understanding the distribution of activity across various content genres and offers insights into which areas of YouTube are most saturated or growing rapidly.
+
+
