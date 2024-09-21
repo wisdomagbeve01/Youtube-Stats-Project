@@ -112,3 +112,9 @@ This plot helps visualize the distribution of content creation activity, reveali
 
 This plot provides insights into the financial landscape of YouTube creators, highlighting whether most creators earn modest incomes or if there are significant outliers with exceptionally high earnings. By visualizing the distribution of yearly earnings, this chart helps to understand the economic diversity within the platform and reveals trends in creator monetization.
 
+7. **Scatter Plot of the Relationship Between Uploads and Subscribers**
+<img width="809" alt="7" src="https://github.com/user-attachments/assets/f4bcd479-ce49-4322-9823-49e25a3c6e66">
+
+This scatter plot allows for a visual examination of the correlation between the two variables. By plotting each creator as a point on the graph, it helps to identify trends and patterns, such as whether channels with more uploads tend to have higher subscriber counts. This analysis can reveal insights into how content production may influence audience growth, helping to understand the dynamics of success on the platform.
+
+
