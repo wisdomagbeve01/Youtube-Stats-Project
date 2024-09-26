@@ -1,4 +1,4 @@
-# Project Overview
+# Global YouTube Statistics Project
 
 ## Table of Contents
 
