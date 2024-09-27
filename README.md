@@ -1,5 +1,8 @@
 # Global YouTube Statistics Project
 
+<img src="https://static.vecteezy.com/system/resources/thumbnails/026/461/350/original/youtube-logo-animation-alpha-channel-4k-resolution-free-video.jpg" alt="MasterHead" width="5000"/>
+
+
 ## Table of Contents
 
 - [Project Overview](#project-overview)
